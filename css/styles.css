@@ -480,6 +480,7 @@ background-color: #404BBF;
     display: flex;
     flex-direction: column;
     gap: 16px;
+    margin-right: 80px;
 }
 
 .footer-social {
@@ -531,8 +532,9 @@ background-color: #404BBF;
     flex-direction: row;
     gap: 24px;
 }
-.footer-form {
-    margin-left: 80px;
+.footer-subscribe {
+   
+    display: flex;
 }
 
 .footer-input {
