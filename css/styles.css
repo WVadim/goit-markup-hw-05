@@ -490,6 +490,7 @@ background-color: #404BBF;
     line-height: 1.5;
     letter-spacing: 0.02em;
     display: block;
+    margin-bottom: 16px;
 }
 
 .footer-icon-list {
