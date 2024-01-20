@@ -765,7 +765,7 @@ background-color: #404BBF;
 .policy-item {
     color: #4d5ae5;
 }
-.check-input:checked+.check-text-icon {
+.check-input:checked + label span {
     background-color: #4D5AE5;
     border: none;
     fill: #F4F4FD;
