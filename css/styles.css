@@ -667,6 +667,9 @@ background-color: #404BBF;
 .modal-field {
     margin-bottom: 16px;
 }
+.modal-field-text {
+    margin-bottom: 8px;
+}
 
 .modal-input-wrap {
     position: relative;
@@ -762,6 +765,7 @@ background-color: #404BBF;
     fill: transparent;
     border-radius: 2px;
 }
+
 .policy-item {
     color: #4d5ae5;
 }
