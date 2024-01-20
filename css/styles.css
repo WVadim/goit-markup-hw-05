@@ -490,9 +490,17 @@ background-color: #404BBF;
     line-height: 1.5;
     letter-spacing: 0.02em;
     display: block;
-    margin-bottom: 16px;
+  
 }
-
+.footer-social-text {
+    font-weight: 500;
+        color: #FFFFFF;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        display: block;
+        margin-bottom: 16px;
+}
 .footer-icon-list {
     display: inline-flex;
     gap: 16px;
@@ -548,7 +556,6 @@ background-color: #404BBF;
     font-size: 12px;
     line-height: 2;
     letter-spacing: 0.04em;
-    margin-top: 16px;
 }
 
 .footer-form-btn {
@@ -763,7 +770,6 @@ background-color: #404BBF;
     justify-content: center;
     fill: transparent;
     border-radius: 2px;
-    display: inline-flex;
 }
 
 .policy-item {
